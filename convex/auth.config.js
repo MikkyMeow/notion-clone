@@ -1,8 +1,8 @@
 export default {
-    providers: [
-      {
-        domain: "https://awake-ox-31.clerk.accounts.dev",
-        applicationID: "convex",
-      }
-    ]
-  }
+  providers: [
+    {
+      domain: "https://humorous-bug-93.clerk.accounts.dev",
+      applicationID: "convex",
+    },
+  ],
+};
